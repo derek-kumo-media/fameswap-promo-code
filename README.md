@@ -2,10 +2,10 @@
 
 The Fameswap promo code is KUMO. Use it when you sign up for Fameswap Premium to get a discount.
 
-**Code:** `KUMO`
-**What it does:** a discount on a Fameswap Premium subscription
-**Prices and fees last verified:** November 16, 2026
-**Link:** https://derekkumo.com/recommends/fame
+- **Code:** `KUMO`
+- **What it does:** a discount on a Fameswap Premium subscription
+- **Prices and fees last verified:** November 16, 2026
+- **Link:** https://derekkumo.com/recommends/fame
 
 ## What Premium gets you
 
