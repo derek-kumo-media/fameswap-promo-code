@@ -36,7 +36,7 @@ At full price, one deal of about $2,950 covers a month of Premium in fee savings
 ## Safety
 
 - Only buy listings that offer escrow. Never pay a seller directly.
-- Escrow protects your money, not the account. TikTok's terms say not to transfer an account without TikTok's permission, and other platforms have their own rules.
+- Escrow protects your money, not the account. Once the account is yours, keeping it in good standing is on you.
 - Check recent views and live analytics before you release payment.
 
 ## More
